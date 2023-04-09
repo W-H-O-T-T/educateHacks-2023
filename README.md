@@ -42,29 +42,6 @@ CodeBoard is a website solely designed for Teachers and Students, to make learni
 
 ![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-## Challenges we ran into 🩹
-
-We had a problem while connecting users into socket, after carefully understanding from the documentation we were able to accomplish the task.
-
-![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
-## Accomplishments that we're proud of 🏆
-We are elated to use Github for hosting it. We have used the feature of Github available.
-We have a team of  **50%  first-time hackers** and each of them tried their best to contribute we are proud that we completed every aspect as we thought of for the project. 
-
-- [Merged PR's](https://github.com/vedant-jain03/code_bode/pulls?q=is%3Apr++)
-- [Issue Solved](https://github.com/vedant-jain03/code_bode/issues?q=is%3Aissue+)
-- [Commit History](https://github.com/vedant-jain03/code_bode/commits/master)
-
-|![Screenshot from 2022-09-25 13-24-44](https://user-images.githubusercontent.com/76901313/192133972-5d202b01-0d54-4a59-9cbe-61d436b1f578.png)| ![Screenshot from 2022-09-25 13-24-15](https://user-images.githubusercontent.com/76901313/192133974-51a6848f-afd4-407c-a9c8-159a6ec93d24.png)
-|-|-|
-| PR Merged  | Completed Issues |
-
-
-
-
-![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
 ## What we learned 🕯️
 We learned to team management, and each and everyone was assigned a task that they completed amazingly,  and the experience from the ideation, prototyping and presentation made us learn very new things. Apart from that, we learned the push notifications concept, reactjs, and a lot more.
 
